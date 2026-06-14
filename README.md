@@ -1,6 +1,4 @@
-# Nolan Robidoux Portfolio
-
-A GitHub-native portfolio of public projects and selected private work.
+<sub>A GitHub-native portfolio of public projects and selected private work.</sub>
 
 ## Featured Projects
 
@@ -33,4 +31,4 @@ The project includes a lightweight PHP admin console for managing domains, TOTP 
 
 | Project | Visibility | Summary | Links |
 | --- | --- | --- | --- |
-| Utility Server | Public | FastAPI service and admin UI for TOTP, tokens, domains, and rate limiting. | [Repo](https://github.com/robione-nr/utility-server) |
+| Utility Server | ![Public](https://img.shields.io/badge/Public-&nbsp;-brightgreen) | FastAPI service and admin UI for TOTP, tokens, domains, and rate limiting. | [Repo](https://github.com/robione-nr/utility-server) |
