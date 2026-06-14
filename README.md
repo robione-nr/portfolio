@@ -4,6 +4,10 @@ A GitHub-native portfolio of public projects and selected private work.
 
 ## Featured Projects
 
+This section is for larger, flagship, or especially representative work.
+
+## Recent Work
+
 <table>
 <tr>
 <td width="38%">
@@ -21,8 +25,6 @@ The project includes a lightweight PHP admin console for managing domains, TOTP 
 
 **Links:** [GitHub repo](https://github.com/robione-nr/utility-server)
 
-**Status:** Recent, significant utility project.
-
 </td>
 </tr>
 </table>
@@ -32,7 +34,3 @@ The project includes a lightweight PHP admin console for managing domains, TOTP 
 | Project | Visibility | Summary | Links |
 | --- | --- | --- | --- |
 | Utility Server | Public | FastAPI service and admin UI for TOTP, tokens, domains, and rate limiting. | [Repo](https://github.com/robione-nr/utility-server) |
-
-## Notes
-
-Public projects link to their GitHub repositories. Private or larger projects can get dedicated writeups under `projects/[app].md` when a repo link is not enough context.
