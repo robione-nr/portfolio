@@ -3,9 +3,9 @@
 ![Private](https://img.shields.io/badge/Private-&nbsp;-lightgrey)
 ![MVP](https://img.shields.io/badge/MVP-&nbsp;-blue)
 
-A private, single-user dashboard that uses AI-assisted parsing to turn lab PDFs into structured biometric trend data. The project is built around a reviewable workflow: upload a PDF, extract text/tables with OCR fallback, have an LLM convert the evidence into lab rows, inspect the extraction, import confirmed results, and compare biomarkers over time.
+A private, single-user dashboard that uses python extraction with AI-assisted parsing to turn lab PDFs into structured biometric trend data. The project is built around a reviewable workflow: upload a PDF, extract text/tables with OCR fallback, have an LLM convert the evidence into lab rows, inspect the extraction, import confirmed results, and compare biomarkers over time.
 
-When the doctor asks, "How are things looking?" I can give hima URL and a 6-digit code.
+When the doctor asks, "How are things looking?" I can give him the URL and a 6-digit code.
 
 ## Screenshots
 
@@ -57,4 +57,4 @@ This project is a practical example of building around messy real-world input. T
 
 MVP. The core private workflow works end to end, with room to improve parser tests, migration strategy, and fully database-driven chart definitions.
 
-Potential future directions include supplement tracking, Fitbit and other wearable ingestion, and imaging data.
+Potential future directions include supplement and/or diet tracking, Fitbit and other wearable ingestion, and imaging data.
