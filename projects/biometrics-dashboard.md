@@ -5,6 +5,8 @@
 
 A private, single-user dashboard that uses AI-assisted parsing to turn lab PDFs into structured biometric trend data. The project is built around a reviewable workflow: upload a PDF, extract text/tables with OCR fallback, have an LLM convert the evidence into lab rows, inspect the extraction, import confirmed results, and compare biomarkers over time.
 
+When the doctor asks, "How are things looking?" I can give hima URL and a 6-digit code.
+
 ## Screenshots
 
 <table>
