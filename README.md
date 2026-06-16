@@ -18,7 +18,7 @@ This section is for larger, flagship, or especially representative work.
 ![Private](https://img.shields.io/badge/Private-&nbsp;-lightgrey)
 ![MVP](https://img.shields.io/badge/MVP-&nbsp;-blue)
 
-Private case study. A single-user dashboard that turns lab PDFs into structured biometric trend data through an authenticated upload, parser, review, and import workflow.
+Private case study. A single-user dashboard that uses AI-assisted parsing to turn lab PDFs into structured biometric trend data through an authenticated upload, review, and import workflow.
 
 It combines a plain PHP/JavaScript interface, MySQL persistence, TOTP-backed access control, and a Python extraction pipeline that uses PDF text/table extraction, OCR fallbacks, and configurable LLM parsing.
 
